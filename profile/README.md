@@ -1,11 +1,13 @@
-## Olá 👋
+## Olá developer 👋
 
 > :warning:
-> Informamos que os módulos listados abaixo foram descontinuados pelas respectivas plataformas em razão da finalização do ciclo de vida do software, ou seja, essas plataformas lançaram versões atualizadas e então o atendimento às antigas foram encerrados. Com base nisso, a Rede não oferecerá mais os módulos abaixo nem serviços de suporte relacionados à sua integração.
+> Informamos que os módulos listados abaixo foram descontinuados pelas respectivas plataformas em razão da finalização do ciclo de vida do software. Com base nisso, esses módulos ficarão indisponíveis para novas integrações e não ofereceremos serviço de suporte para integrações já existentes.
 > 
 > **Módulos descontinuados:**
 > * PrestaShop
 > * Woocommerce
 > * OpenCart
-> * Magento
+> * Magento 1
+>
+> O módulo Magento 2 (Adobe Commerce) está em vigência e disponível para uso.
    
