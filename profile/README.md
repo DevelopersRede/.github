@@ -10,4 +10,6 @@
 > * Magento 1
 >
 > O módulo Magento 2 (Adobe Commerce) está em vigência e disponível para uso.
+>
+> Lembramos que a Rede não se responsabiliza pela plataforma de e-commerce escolhida por cada vendedor nem pelas vulnerabilidades que determinada plataforma possa ter.
    
